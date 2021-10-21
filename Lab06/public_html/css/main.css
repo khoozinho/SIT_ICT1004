@@ -1,0 +1,27 @@
+nav img{
+    border-radius: 50%;
+}
+section h2{
+    text-decoration: underline;
+}
+figure{
+    display: inline-block;
+    font-style: italic; 
+    text-align: center;
+    color: gray;
+}
+figure img{
+    border-style: double;
+    color: black;
+}
+footer{
+    text-align: center;
+    border-top: 2px solid grey;
+    padding: 2%
+}
+.big-img{
+    border: 5px solid black;
+    margin-left: 50%;
+    margin-top: -50%;
+    height: 250px;
+}
